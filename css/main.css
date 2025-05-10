@@ -117,5 +117,36 @@ body {
     letter-spacing: 3px
 }
 
+.second {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    
+}
 
+.row2{
+    width: 1600px;
+
+}
+
+.title-row2{
+    display: flex;
+    justify-content: center;
+}
+
+.row2 h1{
+    width: 50%;
+    color: #B7DDE6;
+    font-size: 30px;
+}
+
+.smallicons1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.smallicons1 p{
+    margin-left: 20px;
+}
 
