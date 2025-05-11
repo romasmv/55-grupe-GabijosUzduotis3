@@ -28,7 +28,7 @@ body {
     word-spacing: 5px;
     letter-spacing: 3px;
     background-color: #B7DDE6;
-    padding: 10px;
+    padding: 5px;
     
 }
 
@@ -49,6 +49,12 @@ body {
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
+
+}
+
+.header-row1 a img{
+    margin-bottom: 0;
+    width: 25px;
 
 }
 
@@ -460,7 +466,7 @@ body {
     align-items: center;
     padding: 10px;
     font-weight: bold;
-    background-color:#F7F8FA;
+    background-color:#e9f0f1;
 }
 
 .footer p{
