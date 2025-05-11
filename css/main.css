@@ -156,6 +156,10 @@ body {
     margin-left: 30px;
 }
 
+.smallicons1 img{
+    margin-bottom: 15px;
+}
+
 .row2 a{
         color: white;
     background-color: #B7DDE6;
@@ -186,6 +190,7 @@ body {
 .right-row3{
     flex-direction: column;
     width: 50%;
+    background-color: #F7F8FA;
 }
 
 .right-row3 h2{
@@ -246,6 +251,48 @@ body {
     letter-spacing: 3px;
 }
 
+.fourth {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    
+}
+
+.row4{
+    width: 1600px;
+    padding-bottom: 140px;
+
+}
+
+.row4 h2{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    color: #B7DDE6;
+    font-size: 35px;
+    margin: 120px;
+    padding-right: 200px;
+}
+
+.smallicons2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.smallicons2 p{
+    margin-bottom: 40px;
+    margin-bottom: 100px;
+    font-size: 18px;
+    width: 90%;
+    line-height: 1.8;
+
+}
+
+.smallicons2 img{
+    margin-bottom: 15px;
+}
+
 .row4 a{
     color: white;
     background-color: #B7DDE6;
@@ -255,12 +302,97 @@ body {
     padding: 15px 50px;
     border-radius: 5px;
     letter-spacing: 3px;
-    margin-top: 60px;
+}
+
+.smallicons2 h3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 25px;
+
+}
+
+/* new*/
+
+
+.fifth{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.row5{
+   width: 1600px;
+   display: flex;
+   justify-content: center;
+}
+
+.right-row5{
+    width: 50%;
+}
+
+.left-row5{
+    flex-direction: column;
+    width: 50%;
+    background-color: #F4FAF8;
+}
+
+.left-row5 h2{
+    color: #B7DDE6;
+    font-size: 35px;
+    letter-spacing: 3px;
+    margin-top: 100px;
+    margin-bottom: 25px;
 }
 
 
+.disc-row5 {
+    font-size: 17px;
+    font-weight: bold;
+    line-height: 1.5;
+    width: 80%;
+    margin-left: 90px;
+    margin-bottom: 60px;
+}
 
+.smallpic5{
+    display: flex;
+    margin-left: 50px;
+    gap: 20px;
+}
 
+.smallpic5 img{
+    width: 140px;
+}
+
+.smallpic5 p{
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.smallpic5 h3{
+    margin: 10px;
+}
+
+.picrow5{
+    width: 30%;
+}
+
+.picrow5 p{
+    width: 90%;
+    margin-bottom: 60px;
+}
+
+.btn-row5 {
+    color: white;
+    background-color: #A6D1CA;
+    text-decoration: none;
+    word-spacing: 7px;
+    font-size: 15px;
+    padding: 15px 50px;
+    border-radius: 5px;
+    letter-spacing: 3px;
+}
 
 
 
