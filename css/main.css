@@ -36,14 +36,13 @@ body {
     display: flex;
     justify-content: center;
     width: 100%;
-
 }
 
 .row1{
     width: 1600px;
     height: 750px;
-    background:url(/img/background.webp)center 70% ; 
-    background: cover;   
+    background:url(/img/aa.png)no-repeat;
+    background-size: cover; 
 }
 
 .header-row1{
@@ -316,9 +315,6 @@ body {
 
 }
 
-/* new*/
-
-
 .fifth{
     display: flex;
     justify-content: center;
@@ -366,6 +362,7 @@ body {
 
 .smallpic5 img{
     width: 140px;
+    margin-bottom: 20px;
 }
 
 .smallpic5 p{
@@ -398,7 +395,6 @@ body {
     letter-spacing: 3px;
 }
 
-
 .sixth {
     display: flex;
     justify-content: center;
@@ -409,9 +405,7 @@ body {
 .row6{
     width: 1600px;
     padding-bottom: 140px;
-
 }
-
 
 .row6 h2{
     width: 80%;
@@ -439,7 +433,6 @@ body {
     width: 350px;
     margin-bottom: 25px;
 }
-
 
 .row6 a{
     color: white;
