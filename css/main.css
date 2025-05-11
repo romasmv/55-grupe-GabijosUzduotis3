@@ -152,6 +152,10 @@ body {
 }
 
 .smallicons1 p{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 130px;
     margin-bottom: 40px;
     margin-left: 30px;
 }
@@ -395,7 +399,58 @@ body {
 }
 
 
+.sixth {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    
+}
 
+.row6{
+    width: 1600px;
+    padding-bottom: 140px;
+
+}
+
+
+.row6 h2{
+    width: 80%;
+    color: #B7DDE6;
+    font-size: 35px;
+    margin-top: 100px;
+    margin-bottom: 75px;
+    line-height: 1.6;
+    margin-left: 160px;
+}
+
+.smallpic6{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 105px;
+    gap: 40px;
+}
+
+.smallpic6 p{
+    margin-left: 30px;
+}
+
+.smallpic6 img{
+    width: 350px;
+    margin-bottom: 25px;
+}
+
+
+.row6 a{
+    color: white;
+    background-color: #B7DDE6;
+    text-decoration: none;
+    word-spacing: 7px;
+    font-size: 15px;
+    padding: 15px 50px;
+    border-radius: 5px;
+    letter-spacing: 3px;
+}
 
 
 
